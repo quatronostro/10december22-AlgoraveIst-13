@@ -3,6 +3,8 @@ These codes are the codes I used in the concert I played on December 10, 2022. I
 
 There is a script mechanism in the code. The codes I wrote are run in 4 different buffers. You can place these buffers wherever you want, I just numbered them.
 
+<a href="https://drive.google.com/file/d/1CZ6z85Q1E2Uf3cbv_0AjtQdz_9bmoOa3/view?usp=sharing">You can find and download sample bank here.</a>
+
 The code works in the following order:
 
 1. The codes in the first buffer are run. (The sound in there is about a 5-minute ambient drone music. It plays once and stops)
