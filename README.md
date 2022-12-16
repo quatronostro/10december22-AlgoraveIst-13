@@ -15,7 +15,9 @@ The code works in the following order:
 
 5. After the script in the final buffer is run, the live_loop's in the third buffer are stopped one by one from bottom to top, according to the entry of new sounds, this time by listening
 
-PS: When transferring these codes to your own computer, you need to adjust the directories to your own computer.
+<p><i>PS: When transferring these codes to your own computer, you need to adjust the directories to your own computer. 
+Inside the sound bank, you can find sounds other than the sounds called in the code. Again, I created them on Ableton but didn't use them. If you find a sound that works for you, you can use it as you wish.</i></p>
+
 
 I am using Win 11 and Sonic Pi 4.3 version.
 
